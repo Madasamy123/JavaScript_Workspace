@@ -1,0 +1,39 @@
+{
+  "employee": [
+    {
+      "name": "Madasamy",
+      "age": 22,
+      "education": "DME",
+      "district": "Tirunelveli",
+      "license": true
+    },
+    {
+      "name": "Siva",
+      "age": 26,
+      "education": "EEE",
+      "district": "Thenkasi",
+      "license": true
+    },
+    {
+      "name": "Anand",
+      "age": 21,
+      "education": "Civil",
+      "district": "Tirunelveli",
+      "license": false
+    },
+    {
+      "name": "Suriya",
+      "age": 23,
+      "education": "Bcom",
+      "district": "Tuticorn",
+      "license": true
+    },
+    {
+      "name": "Muthu",
+      "age": 22,
+      "education": "BA",
+      "district": "Madurai",
+      "license": false
+    }
+  ]
+}
